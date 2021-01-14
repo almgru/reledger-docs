@@ -3,7 +3,7 @@ This repo contains design documents for reledger -- a double entry accounting to
 relational database.
 
 The API source for reledger can be found here:
-[reledger-API](https://github.com/almgru/reledger-docs)
+[reledger-API](https://github.com/almgru/reledger-api)
 
 The frontend for reledger can be found here:
 [reledger-frontend](https://github.com/almgru/reledger-frontend)
